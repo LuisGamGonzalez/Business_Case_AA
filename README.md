@@ -85,7 +85,7 @@ This section explains how to set up, configure, and run the ATD Dashboard on any
 Clone this project from GitHub (or copy the source folder into your working directory):
 
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/LuisGamGonzalez/Business_Case_AA.git
 cd streamlit-atd-dashboard
 ```
 
