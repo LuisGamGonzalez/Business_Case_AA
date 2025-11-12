@@ -1,0 +1,6 @@
+[flake8]
+max-line-length = 100
+extend-ignore = E203, W503, E266, E501
+exclude = .git,__pycache__,.venv,env,build,dist,.streamlit
+statistics = True
+select = C,E,F,W,B,B950
